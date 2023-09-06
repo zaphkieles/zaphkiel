@@ -10,27 +10,29 @@
 
 {"name": "Jueves, 7 | enlaces x definir","image": "","groups": [
   {"name": "🎾 US Open","image": "https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg","groups": [
-    {"name": "02:30 | c. Alcaraz x A. Zverev","image": "","stations": [
+    {"name": "02:30 | C. Alcaraz x A. Zverev","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/tennis/us-open/4670465/","embed": true},
-      {"name": "acestream ","url": ""}
-      acestream://d00223931b1854163e24c5c22475015d7d45c112
-      acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
-
+      {"name": "acestream ","url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"},
+      {"name": "acestream ","url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"}
+  ]}]},
+  {"name": "🏀 FIBA Europe Cup","image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/FIBA_Europe_Cup_logo.svg/1200px-FIBA_Europe_Cup_logo.svg.png","groups": [
+    {"name": "10:15 | Italia x España","image": "","stations": [
+      {"name": "Web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true},
+      {"name": "acestream ","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"}
 ]}]}  ]},
 
 {"name": "Viernes, 8 | enlaces x definir","image": "","groups": [
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
     {"name": "21:00 | Levante x RCD Espanyol","image": "","stations": [
       {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4655184/","embed": true},
-      {"name": "acestream ","url": ""}
-      acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-      acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-      acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-      acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-      acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-      acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-      acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-      acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+      {"name": "acestream ","url": "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"},
+      {"name": "acestream ","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"},
+      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"},
+      {"name": "acestream ","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
+      {"name": "acestream ","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
+      {"name": "acestream ","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"},
+      {"name": "acestream ","url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"}
   ]}]},
   {"name": "⚽️ Eurocopa 2024","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/UEFA_Euro_2024_logo.svg/1200px-UEFA_Euro_2024_logo.svg.png","groups": [
     {"name": "18:00 | Georgia x España","image": "","stations": [
