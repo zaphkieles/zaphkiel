@@ -50,16 +50,11 @@
       {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
       {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
       ]},
-      {"name": "21:00 | Leganés
-      SD HuescaSD Huesca","image": "","stations": [
-        {"name": "Web | Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4658987/","embed": true},
-        {"name": "acestream ","url": "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"},
-        {"name": "acestream ","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"},
-        {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-        {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
+    {"name": "21:00 | Leganés x SD Huesca","image": "","stations": [
+        {"name": "Web | Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4659504/","embed": true},
+        {"name": "acestream ","url": ""}
       ]},
-    {"name": "21:30 | Tenerife
-    AlbaceteAlbacete","image": "","stations": [
+    {"name": "21:30 | Tenerife x Albacete","image": "","stations": [
       {"name": "Web | Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4658987/","embed": true},
       {"name": "acestream ","url": "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"},
       {"name": "acestream ","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"},
@@ -68,19 +63,51 @@
 ]}]}  ]},
 
 {"name": "Domingo, 10 | enlaces x definir","image": "","groups": [
-  {"name": "⚽️ Europeo Sub-21","image": "https://images.daznservices.com/di/library/DAZN_News/69/15/eurocopa-sub-21_7ojtwy0n4fen1di4968bq1057.jpg?t=-1023815448","groups": [
-    {"name": "20:45 | Malta x España","image": "","stations": [
-      {"name": "Web | con chrome y extensión m3u8","url": "","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "16:15 | Racing de Santander x SD Amorebieta","image": "","stations": [
+      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4663513/","embed": true},
+      {"name": "acestream ","url": "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"},
+      {"name": "acestream ","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"},
+      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
+    ]},
+    {"name": "16:15 | Racing de Ferrol x Villarreal B","image": "","stations": [
+      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4664289/","embed": true},
       {"name": "acestream ","url": ""}
+    ]},
+    {"name": "18:30 | Mirandés x FC Andorra","image": "","stations": [
+      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4663514/","embed": true},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "18:30 | Cartagena x Real Zaragoza","image": "","stations": [
+      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4663480/","embed": true},
+      {"name": "acestream ","url": "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"},
+      {"name": "acestream ","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"},
+      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
+    ]},
+    {"name": "21:00 | Tenerife x Albacete","image": "","stations": [
+      {"name": "acestream ","url": "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"},
+      {"name": "acestream ","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"},
+      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
+    ]},
+    {"name": "21:00 | Real Valladolid x Elche","image": "","stations": [
+      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4664290/","embed": true},
+      {"name": "acestream ","url": "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"},
+      {"name": "acestream ","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"},
+      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
 ]}]}  ]},
 
 {"name": "Lunes, 11 | enlaces x definir","image": "","groups": [
-  {"name": "⚽️ Europeo Sub-21","image": "https://images.daznservices.com/di/library/DAZN_News/69/15/eurocopa-sub-21_7ojtwy0n4fen1di4968bq1057.jpg?t=-1023815448","groups": [
-    {"name": "20:45 | Malta x España","image": "","stations": [
-      {"name": "Web | con chrome y extensión m3u8","url": "","embed": true},
-      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
-      {"name": "acestream ","url": ""}
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "21:00 | Eldense x Alcorcón","image": "","stations": [
+      {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/segunda-division-spain/4664291/","embed": true},
+      {"name": "acestream ","url": "acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924"},
+      {"name": "acestream ","url": "acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087"},
+      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
 ]}]} ]}]},
 
 
