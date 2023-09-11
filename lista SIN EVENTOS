@@ -1,0 +1,67 @@
+{"name": "Zaphkiel_ES","author": "-","url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista","image": "https://avatars.githubusercontent.com/u/12897601?v=4","imageScale": "","telegram": "Zaphkiel_ES","info": "Lista Eventos Deportivos",
+
+"groups": [
+
+{"name": "Ficha Telegram","image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/imagencabecera.png","info": "Programación, enlaces web y acestream","stations": [
+  {"name": "Zaphkiel_ES","image": "https://definicion.de/wp-content/uploads/2010/10/cartulina.jpg","url": "https://zaphkieles.github.io/hosting/","embed": true}
+]},
+
+{"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
+
+
+]},
+
+{"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
+  {"name": "JeinzMacias","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT962ttlOBLaL-2hGj1auT7j33NW2aETnZw96PeJf97C2XXlg7vFWJoOj7BoxPxwY_MuA&usqp=CAU","url": "https://cu.jeinzmacias.net/","embed": true},
+  {"name": "LiveSoccer","image": "https://cdn.livesoccertv.com/images/logo.gif","url": "https://my.livesoccer.sx","embed": true},
+  {"name": "SportPlus (necesita activar VPN)","image": "https://img2.sport-tv-guide.live/images/tv-station-sport-plus-tv-1972.png","url": "https://es8.sportplus.live","embed": true},
+  {"name": "Futbolfullenvivo (necesita activar VPN)","image": "https://site-images.similarcdn.com/image?url=futbolfullenvivo.com&t=4&s=1&h=1e16154a9666e0125afb7710583242e6aac9471aed792e00c55367abe1efdea9","url": "https://futbolfullenvivo.com/","embed": true},
+  {"name": "HDMatch (necesita activar VPN)","image": "https://pbs.twimg.com/profile_images/1527601638932086787/IKDpD69A_400x400.png","url": "https://hdmatch.xyz/","embed": true},{"name": "SportsOnline | (Listado, horario de España +1h)","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNOcom6sZBkzmaBuBTaktpmfGO9z0ByRFc2gKkmUe2Mncmr6sa4bQ6cm25_wsCHTk-LiI&usqp=CAU","url": "https://sportsonline.sx/prog.txt","embed": true}
+]},
+
+{"name": "Varios","image": "https://www.softzone.es/app/uploads-softzone.es/2016/09/explorador-de-archivos.jpg?x=480&y=375&quality=40","groups": [
+    {"name": "Canales TV","image": "https://e7.pngegg.com/pngimages/881/51/png-clipart-iptv-television-channel-canal-smart-tv-iptv-television-text-thumbnail.png","info": "No Info","stations": [
+    {"name": "SFNTV","image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_sfn_logo_step_repeat.png","url": "https://sfntv.co/","embed": true},
+    {"name": "ITELEFLIX","image": "https://iteleflix.com/archivos/logo-iteleflix.png","url": "https://iteleflix.com/","embed": true},
+    {"name": "TDTChannels | canales de TV y Radio IPTV","image": "https://www.tdtchannels.com/tdtchannels_android_tv_1.png","url": "https://www.tdtchannels.com/","embed": true},
+    {"name": "PHOTOCALL","image": "https://www.adslzone.net/app/uploads-adslzone.net/2021/12/photocall-1.jpg","url": "https://photocall.tv","embed": true}
+  ]},
+  
+  {"name": "Listas Wiseplay","image": "https://w7.pngwing.com/pngs/141/316/png-transparent-computer-icons-checklist-list-miscellaneous-angle-image-file-formats-thumbnail.png","info": "No Info","stations": [
+    {"name": "Zaphkiel_ES | Añadir Lista (no es necesario si ya la tienes)","image": "https://avatars.githubusercontent.com/u/12897601?v=4","url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista","import": true},
+    {"name": "Canales TV (gentileza TDTChannels)","image": "https://play-lh.googleusercontent.com/xABFSEF3L4NzA_jJd4jv-ikF_sopZ2vh2ujYj4zDua9w00vsmXkL_Qnw4VyV-42EtO-L=w240-h480","url": "https://www.tdtchannels.com/lists/tv.w3u","import": true}      
+  ]},
+  
+  {"name": "Programación de Deportes Diaria","image": "https://e7.pngegg.com/pngimages/451/478/png-clipart-white-and-blue-calendar-illustartion-calendar-giphy-academic-year-calendar-holidays-lights-thumbnail.png","info": "No Info","stations": [
+    {"name": "Futbolenlatv","image": "https://www.futbolenlatv.es/img/logo-futbol-en-la-tv.png","url": "https://www.futbolenlatv.es/deporte","embed": true},
+    {"name": "Partidos de Hoy","image": "https://www.partidos-de-hoy.com/images/logo-partidos-de-hoy-fondo-azul-1-linea.jpg","url": "https://www.partidos-de-hoy.com/","embed": true}
+  ]},
+  
+  {"name": "Apps","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwZa4VjMffi8FN7QKgkm064Q4QJ-G1rki6g&usqp=CAU","info": "clic descargar | abrir en navegador","stations": [
+    {"name": "Archivo de Apps","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmwijA2Cf7yNZwRjFF8uaapwwsb1PcnAAbew&usqp=CAU","url": "https://mega.nz/folder/hph10LaC#qTla0fSejaMGDoSfz5uD-Q","info": "clic descargar carpeta de Apps | abrir en navegador","embed": true},
+    {"name": "VPN1","image": "https://play-lh.googleusercontent.com/MZj1-PzNV5A7gzz28mfPZb2sqd6djGvTntOlpnymhBjZJTr_ZcLQ8jHHHrIwKSOXt_4=w240-h480-rw","url": "https://play.google.com/store/apps/details?id=com.vpn.lat&pcampaignid=web_share","info": "instalar","embed": true},
+    {"name": "VPN2","image": "https://play-lh.googleusercontent.com/39xbI_gFcmGEIl6JEAGhJQKv8GBjR_RFyJ6qhrFfA9CUOKZU2clSs7uo81e30zPGtg=w240-h480-rw","url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&pcampaignid=web_share","info": "clic descargar | abrir archivo","embed": true},
+    {"name": "AceStream Media 3.1.32","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://mega.nz/file/s05SUB4Y#X8ygNZCwVk90-Cz41PynnaCY0Ff3M1EHimbxwYxFjOc","info": "clic descargar | abrir archivo","embed": true},
+    {"name": "AceStream Media | PC","image": "https://www.info-computer.com/modules/dbblog/views/img/uploads/2017/07/programas-ordenador.jpg","url": "https://www.acestream.org/#","info": "clic descargar | abrir archivo","embed": true},
+    {"name": "AceStream TVBox","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://mega.nz/file/YwRzVLhC#3T7gpiTyTFK5Rxz-wNPmHhi26BJgNXejxJHEc6bjHWM","info": "clic descargar | abrir archivo","embed": true},
+    {"name": "Acestream Engine | Android","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://mega.nz/file/0oZAkbBC#dn0T0jMbJ47qJAgVthjWxGoumJfeE2fzajULysOq_1k","info": "clic descargar | abrir archivo","embed": true},
+    {"name": "Acestream Engine | Android TV","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://play.google.com/store/apps/details?id=org.acestream.core.atv&hl=es&gl=US","info": "clic descargar | Google PlayStore","embed": true},
+    {"name": "Wiseplay 7.2.2 Premium","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://mega.nz/file/Q1g3CI7Q#RQ1YBWoHCVCUqD_GS9MNE0Vk27rRPrHSV411hWnVyiU","info": "clic descargar | abrir archivo","embed": true},
+    {"name": "Navegador Opera","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://play.google.com/store/apps/details?id=com.opera.browser&hl=es&gl=US","info": "clic descargar | Google PlayStore","embed": true},
+    {"name": "Navegador Brave","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://play.google.com/store/apps/details?id=com.brave.browser&hl=es&gl=US","info": "clic descargar | Google PlayStore","embed": true},
+    {"name": "Reproductor ABLStream","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://play.google.com/store/apps/details?id=com.ablstream&hl=en&gl=US","info": "clic descargar | Google PlayStore","embed": true}
+  ]},
+    
+  {"name": "Enlaces AceStream","image": "https://play-lh.googleusercontent.com/T0HTeaijUgoKa_FAIL5lGve_H6bSmzuwiP5uNLIqqVkou7fMXHKnWTsNruSE868ss7A","groups": [
+    {"name": "Buscador enlaces acestream","image": "https://avanzaeninternet.com/wp-content/uploads/2018/05/17033192489_c7964c32cc_b.jpg","info": "No Info","stations": [
+      {"name": "Buscador: Ace Stream Broadcasts Búsqueda Canales","image": "https://www.siteprice.org/SiteThumbs/a/acestreamsearch.net.webp","url": "https://acestreamsearch.net/en","embed": true},
+      {"name": "Buscador: Get a link to Ace stream broadcast from any site","image": "https://www.siteprice.org/SiteThumbs/a/acestreamid.com.webp","url": "https://acestreamid.com/","embed": true}
+    ]},
+    {"name": "Archivo de enlaces","image": "https://play-lh.googleusercontent.com/T0HTeaijUgoKa_FAIL5lGve_H6bSmzuwiP5uNLIqqVkou7fMXHKnWTsNruSE868ss7A","info": "No Info","stations": [
+      {"name": "Archivo Zaphkiel_ES | (por privado Telegram, enlace en cabecera de la lista)","image": "https://avatars.githubusercontent.com/u/12897601?v=4","url": "https://zaphkieles.github.io/hosting/ace.html","embed": true}
+  
+]}
+
+
+]}
+]}]}
