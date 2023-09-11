@@ -8,10 +8,23 @@
 
 {"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
 
-
-
-
-
+{"name": "Viernes, 15","image": "","groups": [
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "21:00 | Rayo Vallecano x Alavés","image": "","stations": [
+      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
+  ]}]},
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "21:30 | Real Zaragoza x Racing de Santander","image": "","stations": [
+      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
+  ]}]},
+  {"name": "⚽️ Liga F","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Liga_F_icon.svg/640px-Liga_F_icon.svg.png","groups": [
+    {"name": "21:00 | Valencia Femenino x Real Madrid Femenino","image": "","stations": [
+      {"name": "Web | con chrome y extensión m3u8","url": "","embed": true},
+      {"name": "Web | con VPN, sección Varios/APPs","url": "","embed": true},
+      {"name": "acestream ","url": ""}
+]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
   {"name": "JeinzMacias","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT962ttlOBLaL-2hGj1auT7j33NW2aETnZw96PeJf97C2XXlg7vFWJoOj7BoxPxwY_MuA&usqp=CAU","url": "https://cu.jeinzmacias.net/","embed": true},
