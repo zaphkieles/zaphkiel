@@ -1,17 +1,2 @@
 
 
-{"name": "Lunes, 18","image": "","groups": [
-  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
-    {"name": "21:00 - Granada x Girona","image": "","stations": [
-      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
-      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
-  ]}]},
-  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-    {"name": "21:00 - Andorra x Real Oviedo","image": "","stations": [
-      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
-  ]}]},
-  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
-    {"name": "20:45 - Nottingham Forest x Burnley","image": "","stations": [
-      {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
-      {"name": "acestream ","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"}
