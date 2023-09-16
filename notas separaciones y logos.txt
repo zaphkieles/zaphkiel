@@ -1,9 +1,9 @@
 CIERRES:
 --------
 
-ENTRE ligas (grupos)      ]}]}, ]}]}(ultima liga)
+ENTRE ligas (grupos)      ]}]},                ]}]}(ultima liga)
 
-ENTRE partidos (stations) ]}, ]}(ultimo partido de la liga)
+ENTRE partidos (stations) ]},                  ]}(ultimo partido de la liga)
 
 ENTRE (días)              ]}]}  ]},
 
