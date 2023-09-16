@@ -17,18 +17,13 @@
         {"name": "TERMINADO","url": "https://es8.sportplus.live/football/la-liga/4634916/","embed": true}
       ]},
       {"name": "18:30 | Celta de Vigo x RCD Mallorca","image": "","stations": [
-        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4634873/","embed": true},
-        {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"},
-        {"name": "acestream ","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}
+        {"name": "TERMINADO"}
       ]},
       {"name": "21:00 | FC Barcelona x Real Betis","image": "","stations": [
-        {"name": "Web | con VPN, sección Varios/APPs","url": "https://sportsonline.so/channels/hd/hd6.php","embed": true},
-        {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
-        {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
-        {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
+        {"name": "TERMINADO"}
     ]}]},
     {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-      {"name": "16:15-SD Huesca x Villarreal B TERMINADO | 18:30-Alcorcón x Levante | 18:30-Real Valladolid x Cartagena | 21:00-Albacete x Burgos CF","image": "","stations": [
+      {"name": "16:15-SD Huesca x Villarreal B TERMINADO | 18:30-Alcorcón x Levante TERMINADO | 18:30-Real Valladolid x Cartagena TERMINADO | 21:00-Albacete x Burgos CF TERMINADO","image": "","stations": [
         {"name": "TERMINADO "}
     ]}]},
     {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
@@ -58,10 +53,10 @@
         {"name": "TERMINADO"}
       ]},
       {"name": "18:00 | Inter de Milán x AC Milan","image": "","stations": [
-        {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
+        {"name": "TERMINADO"}
       ]},
       {"name": "20:45 | Genoa x Napoli","image": "","stations": [
-        {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}
+        {"name": "TERMINADO"}
     ]}]},
     {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
       {"name": "15:30 | RB Leipzig x Augsburgo","image": "","stations": [
@@ -74,24 +69,22 @@
         {"name": "TERMINADO"}
       ]},
       {"name": "18:30 | Bochum x Eintracht Frankfurt","image": "","stations": [
-        {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"}
+        {"name": "TERMINADO"}
     ]}]},
     {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
       {"name": "17:00 | Rennes x Lille LOSC","image": "","stations": [
-        {"name": "acestream ","url": "acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05"}
+        {"name": "TERMINADO"}
       ]},
       {"name": "21:00 | Lens x Metz","image": "","stations": [    
-        {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
+        {"name": "TERMINADO"}
     ]}]},
     {"name": "🎾 Copa Davis","image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_davis_cup.png","groups": [
       {"name": "18:00 | Australia x Suiza","image": "","stations": [
-        {"name": "acestream","url": "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"},
-        {"name": "acestream","url": "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"}
+        {"name": "TERMIADO"}
     ]}]},
-    {"name": "🏀 Supercopa Endesa","image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_davis_cup.png","groups": [
+    {"name": "🏀 Supercopa Endesa","image": "https://upload.wikimedia.org/wikipedia/en/1/14/Supercopa_Endesa.png","groups": [
       {"name": "18:30 | Barça Basket x Real Madrid Baloncesto","image": "","stations": [
-        {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
-        {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
+        {"name": "TERMINADO"}
       ]},
       {"name": "21:30 | Unicaja Málaga x UCAM Murcia CB","image": "","stations": [
         {"name": "acestream","url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"},
@@ -104,48 +97,82 @@
       {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
       {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
     ]},
-    {"name": "16:15 | Villarreal x Almería","image": "","stations": [
+    {"name": "16:15 - Villarreal x Almería","image": "","stations": [
       {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
       {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
     ]},
-    {"name": "18:30 | Sevilla FC x UD Las Palmas","image": "","stations": [
+    {"name": "18:30 - Sevilla FC x UD Las Palmas","image": "","stations": [
       {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
       {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
     ]},
-    {"name": "21:00 | Real Madrid x Real Sociedad","image": "","stations": [
+    {"name": "21:00 - Real Madrid x Real Sociedad","image": "","stations": [
       {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
       {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
       {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
       {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
   ]}]},
   {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
-    {"name": "14:00-Amorebieta x Mirandés | 16:15-SD Eibar x Racing Ferrol | 18:30-Elche x Leganés | 18:30-RCD Espanyol x Eldense | 21:00-RCD Sporting Gijón x Tenerife","image": "","stations": [
+    {"name": "14:00 - Amorebieta x Mirandés | 16:15 - SD Eibar x Racing Ferrol | 18:30 - Elche x Leganés | 18:30 - RCD Espanyol x Eldense | 21:00 - RCD Sporting Gijón x Tenerife","image": "","stations": [
       {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
       {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
   ]}]},
   {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
-    {"name": "15:00-AFC Bournemouth x Chelsea | 17:30-Everton x Arsenal","image": "","stations": [
+    {"name": "15:00 - AFC Bournemouth x Chelsea | 17:30 - Everton x Arsenal","image": "","stations": [
       {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
       {"name": "acestream ","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"}        
   ]}]},
   {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
-    {"name": "18:00-ACF Fiorentina x Atalanta | 20:45-Roma x Empoli","image": "","stations": [
+    {"name": "18:00 - ACF Fiorentina x Atalanta - 20:45-Roma x Empoli","image": "","stations": [
       {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
       {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
       {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}      
   ]}]},
   {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
-    {"name": "20:45 | Olympique Lyonnais x Le Havre","image": "","stations": [
+    {"name": "20:45 - Olympique Lyonnais x Le Havre","image": "","stations": [
       {"name": "acestream ","url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"}
   ]}]},
   {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
-    {"name": "13:00 | Milwall x Leeds Utd.","image": "","stations": [
+    {"name": "13:00 - Milwall x Leeds Utd.","image": "","stations": [
       {"name": "acestream ","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"},
       {"name": "acestream ","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"}
+  ]}]},
+    {"name": "🎾 Copa Davis","image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_davis_cup.png","groups": [
+      {"name": "15,17,19h - España x Corea del Sur","image": "","stations": [
+        {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
+        {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
+        {"name": "acestream","url": "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"}
+    ]}]},
+    {"name": "🏀 Supercopa Endesa","image": "https://upload.wikimedia.org/wikipedia/en/1/14/Supercopa_Endesa.png","groups": [
+      {"name": "19:00 - Final","image": "","stations": [
+        {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
+        {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"},
+        {"name": "acestream","url": "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"}
+    ]}]},
+    {"name": "🏎 AUTOMOVILISMO FORMULA 1","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Marina_bay_circuit.svg/320px-Marina_bay_circuit.svg.png","groups": [
+      {"name": "14:00 - GP Singapur (carrera)","image": "","stations": [
+        {"name": "acestream","url": "acestream://5789ca155323664edd293b848606688edf803f4d"},
+        {"name": "acestream","url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"},
+        {"name": "acestream","url": "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"}
+]}]}  ]},
 
-    
+{"name": "Lunes, 18","image": "","groups": [
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "21:00 - Granada x Girona","image": "","stations": [
+      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
+  ]}]},
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "21:00 - Andorra x Real Oviedo","image": "","stations": [
+      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
+  ]}]},
+  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+    {"name": "20:45 - Nottingham Forest x Burnley","image": "","stations": [
+      {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "acestream ","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"}
 
-  
+
+
 ]}]} ]}]},
 
 {"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
