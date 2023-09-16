@@ -1,7 +1,7 @@
 
 {"name": "Martes, 19","image": "","groups": [
 {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
-    {"name": "18:56 - AC Milan x Newcastle United","image": "","stations": [
+{"name": "18:56 - AC Milan x Newcastle United","image": "","stations": [
       {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"}
     ]},
     {"name": "18:45 - Young Boys x RB Leipzig","image": "","stations": [
@@ -25,5 +25,4 @@
     ]},
     {"name": "21:00 - Shaktar Donetsk x Oporto","image": "","stations": [
       {"name": "acestream ","url": ""}
-    ]}
 ]}]}  ]},
