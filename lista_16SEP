@@ -1,0 +1,204 @@
+{"name": "Zaphkiel_ES","author": "Sep/2023 (Actualiza la lista)","url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista","image": "https://avatars.githubusercontent.com/u/12897601?v=4","imageScale": "","telegram": "Zaphkiel_ES","info": "Lista Eventos Deportivos",
+
+"groups": [
+
+{"name": "Ficha Telegram","image": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/imagencabecera.png","info": "Programación, enlaces web y acestream","stations": [
+  {"name": "Zaphkiel_ES","image": "https://definicion.de/wp-content/uploads/2010/10/cartulina.jpg","url": "https://zaphkieles.github.io/hosting/","embed": true}
+]},
+
+{"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
+
+  {"name": "Sábado, 16","image": "","groups": [
+    {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+      {"name": "14:00 | Athletic Club x Cádiz CF","image": "","stations": [
+        {"name": "TERMINADO"}
+      ]},
+      {"name": "16:15 | Valencia CF x Atlético Madrid","image": "","stations": [
+        {"name": "TERMINADO","url": "https://es8.sportplus.live/football/la-liga/4634916/","embed": true}
+      ]},
+      {"name": "18:30 | Celta de Vigo x RCD Mallorca","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://es8.sportplus.live/football/la-liga/4634873/","embed": true},
+        {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"},
+        {"name": "acestream ","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}
+      ]},
+      {"name": "21:00 | FC Barcelona x Real Betis","image": "","stations": [
+        {"name": "Web | con VPN, sección Varios/APPs","url": "https://sportsonline.so/channels/hd/hd6.php","embed": true},
+        {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+        {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
+        {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
+    ]}]},
+    {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+      {"name": "16:15-SD Huesca x Villarreal B TERMINADO | 18:30-Alcorcón x Levante | 18:30-Real Valladolid x Cartagena | 21:00-Albacete x Burgos CF","image": "","stations": [
+        {"name": "TERMINADO "}
+    ]}]},
+    {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+      {"name": "13:30 | Wolverhampton Wanderers x Liverpool","image": "","stations": [
+        {"name": "TERMINADO"}
+      ]},
+      {"name": "16:00 | Aston Villa x Crystal Palace","image": "","stations": [
+        {"name": "TERMINADO"}
+      ]},
+      {"name": "16:00 | Fulham x Luton Town","image": "","stations": [
+        {"name": "TERMINADO"}
+      ]},
+      {"name": "16:00 | Manchester United x Brighton","image": "","stations": [      
+        {"name": "TERMINADO"}
+      ]},
+      {"name": "16:00 | Tottenham Hotspur x Sheffield United","image": "","stations": [
+        {"name": "TERMINADO"}
+      ]},
+      {"name": "16:00 | West Ham x Manchester City","image": "","stations": [
+        {"name": "TERMINADO"}
+      ]},
+      {"name": "16:00 | Newcastle United x Brentford","image": "","stations": [
+        {"name": "TERMINADO"}
+    ]}]},
+    {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
+      {"name": "15:00 | Juventus x Lazio","image": "","stations": [
+        {"name": "TERMINADO"}
+      ]},
+      {"name": "18:00 | Inter de Milán x AC Milan","image": "","stations": [
+        {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
+      ]},
+      {"name": "20:45 | Genoa x Napoli","image": "","stations": [
+        {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}
+    ]}]},
+    {"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
+      {"name": "15:30 | RB Leipzig x Augsburgo","image": "","stations": [
+        {"name": "TERMINADO"}
+      ]},
+      {"name": "15:30 | VfL Wolfsburgo x Union Berlin","image": "","stations": [
+        {"name": "TERMINADO"}
+      ]},
+      {"name": "15:30 | Friburgo x Dortmund","image": "","stations": [
+        {"name": "TERMINADO"}
+      ]},
+      {"name": "18:30 | Bochum x Eintracht Frankfurt","image": "","stations": [
+        {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"}
+    ]}]},
+    {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
+      {"name": "17:00 | Rennes x Lille LOSC","image": "","stations": [
+        {"name": "acestream ","url": "acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05"}
+      ]},
+      {"name": "21:00 | Lens x Metz","image": "","stations": [    
+        {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"}
+    ]}]},
+    {"name": "🎾 Copa Davis","image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_davis_cup.png","groups": [
+      {"name": "18:00 | Australia x Suiza","image": "","stations": [
+        {"name": "acestream","url": "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"},
+        {"name": "acestream","url": "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"}
+    ]}]},
+    {"name": "🏀 Supercopa Endesa","image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_davis_cup.png","groups": [
+      {"name": "18:30 | Barça Basket x Real Madrid Baloncesto","image": "","stations": [
+        {"name": "acestream","url": "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122"},
+        {"name": "acestream","url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"}
+      ]},
+      {"name": "21:30 | Unicaja Málaga x UCAM Murcia CB","image": "","stations": [
+        {"name": "acestream","url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"},
+        {"name": "acestream","url": "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa"}
+]}]}  ]},
+
+{"name": "Domingo, 17","image": "","groups": [
+  {"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+    {"name": "14:00 | Getafe x Osasuna","image": "","stations": [
+      {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
+      {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
+    ]},
+    {"name": "16:15 | Villarreal x Almería","image": "","stations": [
+      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"}
+    ]},
+    {"name": "18:30 | Sevilla FC x UD Las Palmas","image": "","stations": [
+      {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
+      {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
+    ]},
+    {"name": "21:00 | Real Madrid x Real Sociedad","image": "","stations": [
+      {"name": "acestream ","url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"},
+      {"name": "acestream ","url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"},
+      {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
+      {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
+  ]}]},
+  {"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+    {"name": "14:00-Amorebieta x Mirandés | 16:15-SD Eibar x Racing Ferrol | 18:30-Elche x Leganés | 18:30-RCD Espanyol x Eldense | 21:00-RCD Sporting Gijón x Tenerife","image": "","stations": [
+      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
+      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
+  ]}]},
+  {"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+    {"name": "15:00-AFC Bournemouth x Chelsea | 17:30-Everton x Arsenal","image": "","stations": [
+      {"name": "acestream ","url": "acestream://8ca07071b39185431f8e940ec98d1add9e561639"},
+      {"name": "acestream ","url": "acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f"}        
+  ]}]},
+  {"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
+    {"name": "18:00-ACF Fiorentina x Atalanta | 20:45-Roma x Empoli","image": "","stations": [
+      {"name": "acestream ","url": "acestream://931b1984badcb821df7b47a66ac0835ac871b51c"},
+      {"name": "acestream ","url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"},
+      {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"}      
+  ]}]},
+  {"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
+    {"name": "20:45 | Olympique Lyonnais x Le Havre","image": "","stations": [
+      {"name": "acestream ","url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"}
+  ]}]},
+  {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
+    {"name": "13:00 | Milwall x Leeds Utd.","image": "","stations": [
+      {"name": "acestream ","url": "acestream://7aa402bab9fff43258fbcf401881a39475f30aaf"},
+      {"name": "acestream ","url": "acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc"}
+
+    
+
+  
+]}]} ]}]},
+
+{"name": "Web deportivas favoritas","image": "https://marketing4ecommerce.net/wp-content/uploads/2016/11/M_deporte.jpg","info": "No Info","stations": [
+  {"name": "JeinzMacias","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT962ttlOBLaL-2hGj1auT7j33NW2aETnZw96PeJf97C2XXlg7vFWJoOj7BoxPxwY_MuA&usqp=CAU","url": "https://cu.jeinzmacias.net/","embed": true},
+  {"name": "LiveSoccer","image": "https://cdn.livesoccertv.com/images/logo.gif","url": "https://my.livesoccer.sx","embed": true},
+  {"name": "SportPlus (necesita activar VPN)","image": "https://img2.sport-tv-guide.live/images/tv-station-sport-plus-tv-1972.png","url": "https://es8.sportplus.live","embed": true},
+  {"name": "Futbolfullenvivo (necesita activar VPN)","image": "https://site-images.similarcdn.com/image?url=futbolfullenvivo.com&t=4&s=1&h=1e16154a9666e0125afb7710583242e6aac9471aed792e00c55367abe1efdea9","url": "https://futbolfullenvivo.com/","embed": true},
+  {"name": "HDMatch (necesita activar VPN)","image": "https://pbs.twimg.com/profile_images/1527601638932086787/IKDpD69A_400x400.png","url": "https://hdmatch.xyz/","embed": true},{"name": "SportsOnline | (Listado, horario de España +1h)","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNOcom6sZBkzmaBuBTaktpmfGO9z0ByRFc2gKkmUe2Mncmr6sa4bQ6cm25_wsCHTk-LiI&usqp=CAU","url": "https://sportsonline.sx/prog.txt","embed": true}
+]},
+
+{"name": "Varios","image": "https://www.softzone.es/app/uploads-softzone.es/2016/09/explorador-de-archivos.jpg?x=480&y=375&quality=40","groups": [
+    {"name": "Canales TV","image": "https://e7.pngegg.com/pngimages/881/51/png-clipart-iptv-television-channel-canal-smart-tv-iptv-television-text-thumbnail.png","info": "No Info","stations": [
+    {"name": "SFNTV","image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_sfn_logo_step_repeat.png","url": "https://sfntv.co/","embed": true},
+    {"name": "ITELEFLIX","image": "https://iteleflix.com/archivos/logo-iteleflix.png","url": "https://iteleflix.com/","embed": true},
+    {"name": "TDTChannels | canales de TV y Radio IPTV","image": "https://www.tdtchannels.com/tdtchannels_android_tv_1.png","url": "https://www.tdtchannels.com/","embed": true},
+    {"name": "PHOTOCALL","image": "https://www.adslzone.net/app/uploads-adslzone.net/2021/12/photocall-1.jpg","url": "https://photocall.tv","embed": true}
+  ]},
+  
+  {"name": "Listas Wiseplay","image": "https://w7.pngwing.com/pngs/141/316/png-transparent-computer-icons-checklist-list-miscellaneous-angle-image-file-formats-thumbnail.png","info": "No Info","stations": [
+    {"name": "Zaphkiel_ES | Añadir Lista (no es necesario si ya la tienes)","image": "https://avatars.githubusercontent.com/u/12897601?v=4","url": "https://raw.githubusercontent.com/zaphkieles/hosting/gh-pages/lista","import": true},
+    {"name": "Canales TV (gentileza TDTChannels)","image": "https://play-lh.googleusercontent.com/xABFSEF3L4NzA_jJd4jv-ikF_sopZ2vh2ujYj4zDua9w00vsmXkL_Qnw4VyV-42EtO-L=w240-h480","url": "https://www.tdtchannels.com/lists/tv.w3u","import": true}      
+  ]},
+  
+  {"name": "Programación de Deportes Diaria","image": "https://e7.pngegg.com/pngimages/451/478/png-clipart-white-and-blue-calendar-illustartion-calendar-giphy-academic-year-calendar-holidays-lights-thumbnail.png","info": "No Info","stations": [
+    {"name": "Futbolenlatv","image": "https://www.futbolenlatv.es/img/logo-futbol-en-la-tv.png","url": "https://www.futbolenlatv.es/deporte","embed": true},
+    {"name": "Partidos de Hoy","image": "https://www.partidos-de-hoy.com/images/logo-partidos-de-hoy-fondo-azul-1-linea.jpg","url": "https://www.partidos-de-hoy.com/","embed": true}
+  ]},
+  
+  {"name": "Apps","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwZa4VjMffi8FN7QKgkm064Q4QJ-G1rki6g&usqp=CAU","info": "clic descargar | abrir en navegador","stations": [
+    {"name": "Archivo de Apps","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmwijA2Cf7yNZwRjFF8uaapwwsb1PcnAAbew&usqp=CAU","url": "https://mega.nz/folder/hph10LaC#qTla0fSejaMGDoSfz5uD-Q","info": "clic descargar carpeta de Apps | abrir en navegador","embed": true},
+    {"name": "VPN1","image": "https://play-lh.googleusercontent.com/MZj1-PzNV5A7gzz28mfPZb2sqd6djGvTntOlpnymhBjZJTr_ZcLQ8jHHHrIwKSOXt_4=w240-h480-rw","url": "https://play.google.com/store/apps/details?id=com.vpn.lat&pcampaignid=web_share","info": "instalar","embed": true},
+    {"name": "VPN2","image": "https://play-lh.googleusercontent.com/39xbI_gFcmGEIl6JEAGhJQKv8GBjR_RFyJ6qhrFfA9CUOKZU2clSs7uo81e30zPGtg=w240-h480-rw","url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&pcampaignid=web_share","info": "clic descargar | abrir archivo","embed": true},
+    {"name": "AceStream Media 3.1.32","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://mega.nz/file/s05SUB4Y#X8ygNZCwVk90-Cz41PynnaCY0Ff3M1EHimbxwYxFjOc","info": "clic descargar | abrir archivo","embed": true},
+    {"name": "AceStream Media | PC","image": "https://www.info-computer.com/modules/dbblog/views/img/uploads/2017/07/programas-ordenador.jpg","url": "https://www.acestream.org/#","info": "clic descargar | abrir archivo","embed": true},
+    {"name": "AceStream TVBox","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://mega.nz/file/YwRzVLhC#3T7gpiTyTFK5Rxz-wNPmHhi26BJgNXejxJHEc6bjHWM","info": "clic descargar | abrir archivo","embed": true},
+    {"name": "Acestream Engine | Android","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://mega.nz/file/0oZAkbBC#dn0T0jMbJ47qJAgVthjWxGoumJfeE2fzajULysOq_1k","info": "clic descargar | abrir archivo","embed": true},
+    {"name": "Acestream Engine | Android TV","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://play.google.com/store/apps/details?id=org.acestream.core.atv&hl=es&gl=US","info": "clic descargar | Google PlayStore","embed": true},
+    {"name": "Wiseplay 7.2.2 Premium","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://mega.nz/file/Q1g3CI7Q#RQ1YBWoHCVCUqD_GS9MNE0Vk27rRPrHSV411hWnVyiU","info": "clic descargar | abrir archivo","embed": true},
+    {"name": "Navegador Opera","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://play.google.com/store/apps/details?id=com.opera.browser&hl=es&gl=US","info": "clic descargar | Google PlayStore","embed": true},
+    {"name": "Navegador Brave","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://play.google.com/store/apps/details?id=com.brave.browser&hl=es&gl=US","info": "clic descargar | Google PlayStore","embed": true},
+    {"name": "Reproductor ABLStream","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png","url": "https://play.google.com/store/apps/details?id=com.ablstream&hl=en&gl=US","info": "clic descargar | Google PlayStore","embed": true}
+  ]},
+    
+  {"name": "Enlaces AceStream","image": "https://play-lh.googleusercontent.com/T0HTeaijUgoKa_FAIL5lGve_H6bSmzuwiP5uNLIqqVkou7fMXHKnWTsNruSE868ss7A","groups": [
+    {"name": "Buscador enlaces acestream","image": "https://avanzaeninternet.com/wp-content/uploads/2018/05/17033192489_c7964c32cc_b.jpg","info": "No Info","stations": [
+      {"name": "Buscador: Ace Stream Broadcasts Búsqueda Canales","image": "https://www.siteprice.org/SiteThumbs/a/acestreamsearch.net.webp","url": "https://acestreamsearch.net/en","embed": true},
+      {"name": "Buscador: Get a link to Ace stream broadcast from any site","image": "https://www.siteprice.org/SiteThumbs/a/acestreamid.com.webp","url": "https://acestreamid.com/","embed": true}
+    ]},
+    {"name": "Archivo de enlaces","image": "https://play-lh.googleusercontent.com/T0HTeaijUgoKa_FAIL5lGve_H6bSmzuwiP5uNLIqqVkou7fMXHKnWTsNruSE868ss7A","info": "No Info","stations": [
+      {"name": "Archivo Zaphkiel_ES | (por privado Telegram, enlace en cabecera de la lista)","image": "https://avatars.githubusercontent.com/u/12897601?v=4","url": "https://zaphkieles.github.io/hosting/ace.html","embed": true}
+  
+]}
+
+
+]}
+]}]}
