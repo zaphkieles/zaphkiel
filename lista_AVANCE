@@ -1,56 +1,75 @@
 
 
-{"name": "Miércoles, 20","image": "","groups": [
-  {"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
-    {"name": "18:45 - Real Madrid x Union Berlin","image": "","stations": [
-      {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-      {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"},
-      {"name": "acestream ","url": "acestream://ad372cba73aa0ece207a79532b3e30b731136bb2"}
-    ]},
-    {"name": "18:45 - Galatasaray x FC Copenhague","image": "","stations": [
-      {"name": "acestream ","url": "acestream://5f966c123759de46dff29c379266b7a403452033"},
-      {"name": "acestream ","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}
-    ]},
-    {"name": "21:00 - Arsenal x PSV Eindhoven","image": "","stations": [
-      {"name": "acestream ","url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"},
-      {"name": "acestream ","url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"},
-      {"name": "acestream ","url": "acestream://0f32c0131a2d9444996410801f4e18b04384db98"}
-    ]},
-    {"name": "21:00 - Bayern de Múnich x Manchester United","image": "","stations": [
-        {"name": "acestream ","url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"},
-        {"name": "acestream ","url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"}
-    ]},
-    {"name": "21:00 - Benfica x Red Bull Salzburgo","image": "","stations": [
-      {"name": "acestream ","url": "aacestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"},
-      {"name": "acestream ","url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"}
-    ]},
-    {"name": "21:00 - Real Sociedad x Inter MilanInter Milan","image": "","stations": [
-        {"name": "acestream ","url": "acestream://4c46585214b23b1d802ef2168060c7649a3894cf"},
-        {"name": "acestream ","url": "acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"}
-    ]},
-    {"name": "21:00 - Braga x Napoli","image": "","stations": [
-      {"name": "acestream ","url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce"},
-      {"name": "acestream ","url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"},
-      {"name": "acestream ","url": "acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce"}
-    ]},
-    {"name": "21:00 - Sevilla FC x Lens","image": "","stations": [
-      {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
-      {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
-      {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
-  ]}]},
-  {"name": "⚽️ UEFA Europa Conference League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png","groups": [
-    {"name": "16:30 - Lille LOSC x Olimpija Ljubljana","image": "","stations": [
-      {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
-      {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
-      {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
-  ]}]},
-  {"name": "⚽️ FIFA Copa Mundial Futsal","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trofeo_del_mundial_de_Futsal%2C_visit%C3%B3_comando_de_la_Polic%C3%ADa_en_Cali_%2828282635893%29.jpg/800px-Trofeo_del_mundial_de_Futsal%2C_visit%C3%B3_comando_de_la_Polic%C3%ADa_en_Cali_%2828282635893%29.jpg","groups": [
-    {"name": "21:00 - España x Italia","image": "","stations": [
-      {"name": "acestream ","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"},
-      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true}
 ]}]}  ]},
 
 {"name": "Jueves, 21","image": "","groups": [
   {"name": "⚽️ Europa League","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png","groups": [
-  
-
+    {"name": "18:45 | Bayer Leverkusen x Hacken","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "18:45 | LASK Linz x Liverpool","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "18:45 | Panathinaikos x Villarreal","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "18:45 | Quarabag x Molde","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "18:45 | Saint-Gilloise x Toulouse","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "18:45 | Servette Genève x Slavia Praga","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "18:45 | Sherriff Tiraspol x Roma","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "18:45 | Stade Rennais x Maccabi Haifa","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "21:00 | Ajax de Ámsterdam x Olympique Marsella","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "21:00 | Atalanta x Raków Czestochowa","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "21:00 | Olympiacos x Friburgo","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "21:00 | West Ham x Backa Topola","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "21:00 | Brighton x AEK Larnaca","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "21:00 | Rangers x Real Betis","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "21:00 | Sparta Praha x Aris Limassol","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
+    {"name": "21:00 | Sturm Graz x Sporting de Lisboa","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+  ]}]},
+  {"name": "⚽️ UEFA Europa Conference League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png","groups": [  
+    {"name": "18:45 | Bayer Leverkusen x Hacken","image": "","stations": [
+      {"name": "acestream ","url": ""},
+      {"name": "acestream ","url": ""}
+    ]},
