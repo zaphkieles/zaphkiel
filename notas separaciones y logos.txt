@@ -1,21 +1,59 @@
-CIERRES:
---------
-
+CIERRES
+-------
 ENTRE ligas (grupos)      ]}]},                ]}]}(ultima liga)
-
 ENTRE partidos (stations) ]},                  ]}(ultimo partido de la liga)
-
 ENTRE (días)              ]}]}  ]},
-
 CIERRE (1 día)            ]}  ]}]}
 CIERRE (varios días)      ]}]}  ]}  ]}]}
 
+enlaces web
+-----------
+    {"name": "21:30 | SD Huesca x Tenerife,| (activar antes vpn en la app)","image": "","stations": [
+      {"name": "web | con chrome y extensión m3u8","url": "","embed": true},
+      {"name": "web | con VPN (Sección Varios/Apps)","url": "","embed": true}
 
-acestream url y enlace web
+LOGOS
+------
 
-{"name": "⚽️ competición","image": "","groups": [
-     {"name": "21:30 | SD Huesca x Tenerife,| (activar antes vpn en la app)","image": "","stations": [
-     {"name": "","url": "https://1l1l.to/embed19","embed": true}
+{"name": "Eventos diarios","image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg","groups": [
+
+{"name": "⚽️ supercopa de Alemania","image": "https://tmssl.akamaized.net/images/logo/header/dfl.png?lm=1520938588","groups": [
+{"name": "⚽️ copa italiana","image": "https://t1.gstatic.com/images?q=tbn:ANd9GcSCPL4bRL9l39JaKoqoKVe2-NFnmxLTuTQdYmWuCasg2iWDuEJt","groups": [
+{"name": "⚽️ FA Women's Super League","image": "https://upload.wikimedia.org/wikipedia/en/4/4f/FA_Women%27s_Super_League.png","groups": [
+{"name": "⚽️ Liga F (femenina)","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Liga_F_icon.svg/640px-Liga_F_icon.svg.png","groups": [
+{"name": "⚽️ UEFA Europa Conference League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png","groups": [
+{"name": "⚽️ LaLiga EA Sports","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+{"name": "⚽️ LaLiga Hypermotion","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png","groups": [
+{"name": "⚽️ Premier League","image": "https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg","groups": [
+{"name": "⚽️ Serie A Italia","image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU","groups": [
+{"name": "⚽️ Francia Ligue 1","image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg","groups": [
+{"name": "⚽️ Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png","groups": [
+{"name": "⚽️ Eurocopa 2024","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/UEFA_Euro_2024_logo.svg/1200px-UEFA_Euro_2024_logo.svg.png","groups": [
+{"name": "⚽️ (Futbol Sala) Europeo Sub-19","image": "https://image.slidesharecdn.com/copiadeftbolsala-130617085246-phpapp02/85/ftbol-sala-1-320.jpg?cb=1666922357","groups": [
+{"name": "⚽️ Championship","image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png","groups": [
+{"name": "⚽️ Champions League","image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI","groups": [
+{"name": "⚽️ Champions League Femenina","image": "https://estaticos-cdn.sport.es/clip/e1871120-090c-464b-82a8-29fe66ec8a4b_source-aspect-ratio_default_0.jpg","groups": [
+{"name": "⚽️ Europa League","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png","groups": [
+{"name": "⚽️ Copa del Rey","image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif","groups": [
+{"name": "⚽️ Copa de la Reina","image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Copa_de_la_Reina_2021.png","groups": [
+{"name": "⚽️ Women's FA CUP","image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-_UqsauZiaAfIgg7eVDwbDA1DPLpSp6zxeiOarf0bhFWsdTnX","groups": [
+{"name": "⚽️ FA CUP","image": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png","groups": [
+{"name": "⚽️ Carabao Cup","image": "https://www.themillers.co.uk/siteassets/image/efl/efl-logos/carabao-cup-2018-19.jpg","groups": [
+
+{"name": "🏀 FIBA Copa Mundial","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
+{"name": "🏀 FIBA Europe Cup","image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/FIBA_Europe_Cup_logo.svg/1200px-FIBA_Europe_Cup_logo.svg.png","groups": [
+{"name": "🏀 Torneo Costa del Sol","image": "https://s1.ppllstatics.com/diariosur/www/multimedia/2023/08/04/torneo-costa-del-sol-reducido-R2UKbC18klNFow7LRkyOtQI-1200x840@Diario%20Sur.jpg","groups": [
+
+{"name": "🎾 Liga Endesa","image": "https://www.endesa.com/content/dam/endesa-com/home/prensa/noticias/imagenes/2017/07/1500994700427.jpg","groups": [
+{"name": "🎾 Copa Sevilla","image": "https://s2.abcstatics.com/media/deportes/2021/08/13/s/CartelCopaSevillaChallenger2021-U50522060153xMm-620x349@abc.jpg","groups": [
+{"name": "🎾 US Open","image": "https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg","groups": [  
+
+{"name": "🏍 Moto GP","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/2560px-Moto_Gp_logo.svg.png","groups": [
+
+{"name": "🚴‍♀️ Ciclismo","image": "https://static.vecteezy.com/system/resources/previews/013/095/199/original/cycling-race-logo-design-bicycle-shop-logo-design-template-free-vector.jpg","groups": [
+
+{"name": "🏎 Automovilismo F1","image": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-scaled.jpg","groups": [
+
 
 LISTA TVS
 ---------
@@ -4266,106 +4304,3 @@ LISTA TVS
     }
   ]
 }
-
-------
-LOGOS:
-------
-
-Eventos del día
-https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg
-
-⚽️ supercopa de Alemania
-https://tmssl.akamaized.net/images/logo/header/dfl.png?lm=1520938588
-
-⚽️ copa italiana
-https://t1.gstatic.com/images?q=tbn:ANd9GcSCPL4bRL9l39JaKoqoKVe2-NFnmxLTuTQdYmWuCasg2iWDuEJt
-
-🎾 Liga Endesa
-https://www.endesa.com/content/dam/endesa-com/home/prensa/noticias/imagenes/2017/07/1500994700427.jpg
-
-🎾 US Open
-https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg
-
-
-⚽️ FA Women's Super League
-https://upload.wikimedia.org/wikipedia/en/4/4f/FA_Women%27s_Super_League.png
-
-🚴‍♀️ Ciclismo
-https://static.vecteezy.com/system/resources/previews/013/095/199/original/cycling-race-logo-design-bicycle-shop-logo-design-template-free-vector.jpg
-giro: https://ciclismoepico.com/wp-content/uploads/2023/01/giro-italia-2023-recorrido-favoritos-perfiles-de-etapa-ciclismo-epico.jpg
-
-⚽️ liga arabia saudita
-https://www.fansclubchivas.com/wp-content/uploads/2023/01/1-23.png.webp
-
-🏎 AUTOMOVILISMO FORMULA 1
-https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-scaled.jpg
-
- 🏍 Moto GP
- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/2560px-Moto_Gp_logo.svg.png
-
-⚽️ Liga F (femenina)
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Liga_F_icon.svg/640px-Liga_F_icon.svg.png
-
-⚽️ UEFA Europa Conference League
-https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png
-
-
-⚽️ LaLiga EA Sports
-https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp
-⚽️ LaLiga Santander
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU
-
-
-⚽️ LaLiga Hypermotion
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1920px-LaLiga_TV_Hypermotion_2023_Logo.svg.png
-⚽️ LaLiga SmartBank
-https://yt3.googleusercontent.com/cidm0QC9sKLwm33gBf5ahobgFq9-giKWaCyfdeMEQClFOTq15oyKbx5lejX7PGuE6bjrCSjuMsI=s900-c-k-c0x00ffffff-no-rj
-
-⚽️ Premier League
-https://static.designboom.com/wp-content/uploads/2016/02/designstudio-premier-league-logo-graphic-design-designboom-5060.jpg
-
-https://static.vecteezy.com/system/resources/previews/010/994/451/original/premier-league-logo-symbol-with-name-design-england-football-european-countries-football-teams-illustration-with-purple-background-free-vector.jpg
-
-⚽️ Serie A Italia
-https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU
-
-⚽️ Ligue 1 Francia
-https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg
-
-⚽️ Bundesliga
-https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png
-
-🏀 Baloncesto
-https://www.mundodeportivo.com/files/image_449_220/uploads/2021/07/14/60f3e62d0d3f2.png
-
-🏀 FIBA Europe Cup
-https://upload.wikimedia.org/wikipedia/en/thumb/7/78/FIBA_Europe_Cup_logo.svg/1200px-FIBA_Europe_Cup_logo.svg.png
-
-⚽️ Championship
-https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png
-
-⚽️ Champions League
-https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI
-
-⚽️ Champions League Femenina
-https://estaticos-cdn.sport.es/clip/e1871120-090c-464b-82a8-29fe66ec8a4b_source-aspect-ratio_default_0.jpg
-
-⚽️ Europa League
-https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png
-
-⚽️ Copa del Rey
-https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif
-
-⚽️ Copa de la Reina (sin eventos)
-https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Copa_de_la_Reina_2021.png
-
-⚽️ Women's FA CUP (sin eventos)
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-_UqsauZiaAfIgg7eVDwbDA1DPLpSp6zxeiOarf0bhFWsdTnX
-
-⚽️ FA CUP (sin eventos)
-https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png
-
-⚽️ Carabao Cup (sin eventos)",
-"image": "https://www.themillers.co.uk/siteassets/image/efl/efl-logos/carabao-cup-2018-19.jpg",
-
-

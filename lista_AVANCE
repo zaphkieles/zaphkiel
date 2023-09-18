@@ -37,3 +37,20 @@
       {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
       {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
       {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
+  ]}]},
+  {"name": "⚽️ UEFA Europa Conference League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png","groups": [
+    {"name": "16:30 - Lille LOSC x Olimpija Ljubljana","image": "","stations": [
+      {"name": "acestream ","url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"},
+      {"name": "acestream ","url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"},
+      {"name": "acestream ","url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"}
+  ]}]},
+  {"name": "⚽️ FIFA Copa Mundial Futsal","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trofeo_del_mundial_de_Futsal%2C_visit%C3%B3_comando_de_la_Polic%C3%ADa_en_Cali_%2828282635893%29.jpg/800px-Trofeo_del_mundial_de_Futsal%2C_visit%C3%B3_comando_de_la_Polic%C3%ADa_en_Cali_%2828282635893%29.jpg","groups": [
+    {"name": "21:00 - España x Italia","image": "","stations": [
+      {"name": "acestream ","url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"},
+      {"name": "web | con chrome y extensión m3u8","url": "https://ztnr.rtve.es/ztnr/1712295.m3u8","embed": true}
+]}]}  ]},
+
+{"name": "Jueves, 21","image": "","groups": [
+  {"name": "⚽️ Europa League","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png","groups": [
+  
+
