@@ -54,6 +54,7 @@ LOGOS
 
 {"name": "🏎 Automovilismo F1","image": "https://brandemia.org/contenido/subidas/2017/11/cabecera_formula1-scaled.jpg","groups": [
 
+{"name": "🏌‍♂ Open de Francia","image": "https://play-lh.googleusercontent.com/DJueER9q3UPYjWnyXwUP3NF_wgKZ_dtIGhU2T-ibVo2W8EDyNHYG-0SNAuSH-D48XQ","groups": [
 
 LISTA TVS
 ---------
