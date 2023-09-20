@@ -19,6 +19,7 @@ LOGOS
 
 {"name": "⚽️ supercopa de Alemania","image": "https://tmssl.akamaized.net/images/logo/header/dfl.png?lm=1520938588","groups": [
 {"name": "⚽️ copa italiana","image": "https://t1.gstatic.com/images?q=tbn:ANd9GcSCPL4bRL9l39JaKoqoKVe2-NFnmxLTuTQdYmWuCasg2iWDuEJt","groups": [
+{"name": "⚽️ UEFA Women's Nations League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/UEFA_Women%27s_Nations_League_logo.svg/160px-UEFA_Women%27s_Nations_League_logo.svg.png","groups": [
 {"name": "⚽️ FA Women's Super League","image": "https://upload.wikimedia.org/wikipedia/en/4/4f/FA_Women%27s_Super_League.png","groups": [
 {"name": "⚽️ Liga F (femenina)","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Liga_F_icon.svg/640px-Liga_F_icon.svg.png","groups": [
 {"name": "⚽️ UEFA Europa Conference League","image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png","groups": [
