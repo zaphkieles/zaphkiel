@@ -48,7 +48,8 @@ LOGOS
 {"name": "🎾 Liga Endesa","image": "https://www.endesa.com/content/dam/endesa-com/home/prensa/noticias/imagenes/2017/07/1500994700427.jpg","groups": [
 {"name": "🎾 Copa Sevilla","image": "https://s2.abcstatics.com/media/deportes/2021/08/13/s/CartelCopaSevillaChallenger2021-U50522060153xMm-620x349@abc.jpg","groups": [
 {"name": "🎾 US Open","image": "https://www.industriadeltenis.com/wp-content/uploads/2020/08/us_open_logo.jpg","groups": [  
-
+{"name": "🎾 Masters Shanghai","image": "https://upload.wikimedia.org/wikipedia/de/f/f8/Logo_Masters_Shanghai.svg","groups": [
+  
 {"name": "🏍 Moto GP","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/2560px-Moto_Gp_logo.svg.png","groups": [
 
 {"name": "🚴‍♀️ Ciclismo","image": "https://static.vecteezy.com/system/resources/previews/013/095/199/original/cycling-race-logo-design-bicycle-shop-logo-design-template-free-vector.jpg","groups": [
