@@ -44,6 +44,8 @@ LOGOS
 {"name": "🏀 FIBA Copa Mundial","image": "https://nintenduo.com/wp-content/uploads/2023/04/laliga-ea-sports-fc-destacada-01-1200x900.webp","groups": [
 {"name": "🏀 FIBA Europe Cup","image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/FIBA_Europe_Cup_logo.svg/1200px-FIBA_Europe_Cup_logo.svg.png","groups": [
 {"name": "🏀 Torneo Costa del Sol","image": "https://s1.ppllstatics.com/diariosur/www/multimedia/2023/08/04/torneo-costa-del-sol-reducido-R2UKbC18klNFow7LRkyOtQI-1200x840@Diario%20Sur.jpg","groups": [
+{"name": "🏀 Euroliga Liga Regular","image": "https://image.ondacero.es/clipping/cmsimages02/2016/01/27/F7D34ABC-97B2-4C46-8D6E-DD36769D6334/58.jpg","groups": [
+
 
 {"name": "🎾 Liga Endesa","image": "https://www.endesa.com/content/dam/endesa-com/home/prensa/noticias/imagenes/2017/07/1500994700427.jpg","groups": [
 {"name": "🎾 Copa Sevilla","image": "https://s2.abcstatics.com/media/deportes/2021/08/13/s/CartelCopaSevillaChallenger2021-U50522060153xMm-620x349@abc.jpg","groups": [
