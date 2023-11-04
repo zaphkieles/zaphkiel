@@ -47,7 +47,7 @@ LOGOS
 {"name": "🏀 Euroliga Liga Regular","image": "https://image.ondacero.es/clipping/cmsimages02/2016/01/27/F7D34ABC-97B2-4C46-8D6E-DD36769D6334/58.jpg","groups": [
 {"name": "🏀 Liga Endesa","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Liga_Endesa_2019_logo.svg/175px-Liga_Endesa_2019_logo.svg.png","groups": [
 {"name": "🏀 Basketball Champions League","image": "http://t1.gstatic.com/images?q=tbn:ANd9GcQbKEPtykBSPad--RsjlxjRqlJzBSNnOCuK4__tLXpDJuL9Uk5F","groups": [
-
+{"name": "🏀 Basketball Champions League","image": "https://cdn.nba.com/next/fallback.jpg","groups": [
 
 {"name": "🎾 Liga Endesa","image": "https://www.endesa.com/content/dam/endesa-com/home/prensa/noticias/imagenes/2017/07/1500994700427.jpg","groups": [
 {"name": "🎾 Copa Sevilla","image": "https://s2.abcstatics.com/media/deportes/2021/08/13/s/CartelCopaSevillaChallenger2021-U50522060153xMm-620x349@abc.jpg","groups": [
