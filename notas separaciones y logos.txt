@@ -2,7 +2,7 @@ CIERRES
 -------
 ENTRE ligas (grupos)      ]}]},                ]}]}(ultima liga)
 ENTRE partidos (stations) ]},                  ]}(ultimo partido de la liga)
-ENTRE (días)              
+ENTRE (días)              ]}]}  ]},
 CIERRE (1 día)            ]}  ]}]}
 CIERRE (varios días)      ]}]}  ]}  ]}]}
 
