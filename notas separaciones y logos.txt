@@ -3,7 +3,7 @@ CIERRES
 ENTRE ligas (grupos)      ]}]},                ]}]} (ultima liga)
 ENTRE partidos (stations) ]},                  ]} (ultimo partido de la liga)
 ENTRE (días)              ]}]}  ]},            ]}, (cierre "sin eventos")
-CIERRE (1 día)            ]}  ]}]}
+CIERRE (1 día)            ]}  ]}]}             ]}]} ]}]}, (Cierre general eventos)
 CIERRE (varios días)      ]}]}  ]}  ]}]}
 
 enlaces web
